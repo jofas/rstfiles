@@ -1,5 +1,5 @@
-Bahamian Johnny Cake
-====================
+Hummus
+======
 
 
 Ingredients
