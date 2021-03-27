@@ -32,10 +32,6 @@ Description
 Notes
 -----
 
-* oat milk instead of real milk
-
-* 50:50 whole-grain and normal wheat flour
-
 
 TOTRY
 -----
