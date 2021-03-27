@@ -5,11 +5,11 @@ Kombucha (neat)
 Ingredients
 -----------
 
-* 2 portions black tea
+* 1 (heaped) portion black tea
 
-* 200g sugar
+* 100g sugar
 
-* 1.7l water
+* 1l water
 
 * a scoby obviously
 
