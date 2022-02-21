@@ -61,8 +61,10 @@ Preparation
    water is incorporated.
    20 to 60 minutes before making final dough.
 
-3. **Mixing:** Sprinkle salt over autolyse dough and add the levain.
+3. **Mixing:** Add the salt and levain to the autolyse dough.
    Mix till the dough has a medium consistency.
+   7 to 10 minutes mixing by hand, 2 minutes mixing with a mixer on
+   medium gear.
 
 4. **Bulk fermentation:** 3 hours, 2 folds after 60 and 120 minutes.
 
