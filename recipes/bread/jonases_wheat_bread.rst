@@ -16,7 +16,6 @@ Overall
 ======================  ======  ==================
 Ingredient              Amount  Baker's Percentage
 ======================  ======  ==================
-
 Whole wheat flour       150g    15%
 Whole rye flour         50g     5%
 Wheat flour(550)        770g    80%
@@ -32,7 +31,6 @@ Levain (28%)
 ======================  ======  ==================
 Ingredient              Amount  Baker's Percentage
 ======================  ======  ==================
-
 Whole wheat flour       150g    100%
 Water                   125ml   83%
 Mature culture          30g     20%
@@ -45,7 +43,6 @@ Rye sour (10%)
 ======================  ======  ==================
 Ingredient              Amount  Baker's Percentage
 ======================  ======  ==================
-
 Whole rye flour         50g     100%
 Water                   50ml    100%
 Mature culture          20g     40%
@@ -58,7 +55,6 @@ Final
 ======================  ======
 Ingredient              Amount
 ======================  ======
-
 Wheat flour(550)        770g
 Water                   525ml
 Salt                    17g
