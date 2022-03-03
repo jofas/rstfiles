@@ -16,7 +16,7 @@ Overall
 ==========================  ======  ==================
 Ingredient                  Amount  Baker's Percentage
 ==========================  ======  ==================
-Wheat flour(550)            1000g   100%
+Wheat flour (550)           1000g   100%
 Water                       770ml   77%
 Salt                        18g     1.8%
 Freshly fed mature culture  100g    10%
@@ -29,7 +29,7 @@ Levain (15%)
 ==========================  ======  ==================
 Ingredient                  Amount  Baker's Percentage
 ==========================  ======  ==================
-Wheat flour(550)            100g    100%
+Wheat flour (550)           100g    100%
 Water                       100ml   100%
 Freshly fed mature culture  100g    100%
 ==========================  ======  ==================
@@ -41,7 +41,7 @@ Final
 =======================  ======
 Ingredient               Amount
 =======================  ======
-Wheat flour(550)         900g
+Wheat flour (550)        900g
 Water                    670ml
 Salt                     18g
 Levain                   300g
