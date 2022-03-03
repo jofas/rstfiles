@@ -7,7 +7,7 @@ from his ploetzblog.
 Yield
 -----
 
-Two normal loaves or one very big loaf.
+Two normal loaves or one big loaf.
 
 
 Overall
