@@ -53,4 +53,4 @@ Preparation
    or 27x36 cm).
 
 5. **Baking:** Put the baking dish into the oven, preheated to
-   170 deg. Celcius. Bake for 25-30 minutes.
+   175 deg. Celcius. Bake for 25-30 minutes.
