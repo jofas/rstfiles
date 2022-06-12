@@ -45,7 +45,7 @@ Preparation
    in your oil, strain it through a coffee filter (this may take some
    time).
 
-3. **Mixing:** Put the flour, sugar cocoa powder, baking powder and
+3. **Mixing:** Put the flour, sugar, cocoa powder, baking powder and
    salt into your mixing bowl. Pour in the water, cannabis oil and
    the vanilla extract. Mix until well blended.
 
